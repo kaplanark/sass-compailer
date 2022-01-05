@@ -1,4 +1,4 @@
-# sass-compailer
+# gulp sass-compailer
 
 Firstly:
 <code>npm i</code>
