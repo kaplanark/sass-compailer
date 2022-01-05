@@ -4,4 +4,4 @@ Firstly:
 <code>npm i</code>
 
 To make it work:
-<code></code>
+<code>gulp</code>
